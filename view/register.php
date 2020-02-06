@@ -80,7 +80,7 @@ if (isset($_POST['reg_user'])) {
 						<input class="form-control" type="text" name="phone" placeholder="Phone"><br>
 						<input class="form-control" type="text" name="email" placeholder="Email"><br>
 						<select class="custom-select custom-select-sm" name="position">
-							<option>customer</option>
+							<option>user</option>
 						</select>
 						<input class="form-control" type="text" name="user" placeholder="Username" style="margin-top: 20px;"><br>
 						<input class="form-control" type="password" name="pass" placeholder="Password"><br>
